@@ -1,0 +1,4 @@
+<meta>
+    <script src="s_test3d.lua" type = "server" />
+    <script src="c_test3d.lua" type="client" />
+</meta>
